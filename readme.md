@@ -1,4 +1,4 @@
-# 2D to 3D Rendering
+# 2D Raycasting
 !["2d Raycasting"](assets\2d-raycasting-showcase.gif)
 
 ## Summary
