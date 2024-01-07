@@ -1,5 +1,5 @@
 # 2D Raycasting
-!["2d Raycasting"](assets\2d-raycasting-showcase.gif)
+!["2d Raycasting"](assets/2d-raycasting-showcase.gif)
 
 ## Summary
 My attempt at the Coding Trains Coding Challenge #145, which you can [watch here](https://www.youtube.com/watch?v=TOEi6T2mtHo). Casting rays to get a sort of lighting effect in 2D.
